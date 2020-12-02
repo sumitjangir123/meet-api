@@ -1,0 +1,26 @@
+{
+  "name": "meet-api",
+  "version": "1.0.0",
+  "description": "unofficial meet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitjangir123/meet-api.git"
+  },
+  "keywords": [
+    "meet",
+    "api"
+  ],
+  "author": "sumit kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitjangir123/meet-api/issues"
+  },
+  "homepage": "https://github.com/sumitjangir123/meet-api#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
