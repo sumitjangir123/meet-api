@@ -12,7 +12,7 @@ then ...
 
 ...
 
-`const Meeting = require('google-meet-api').meet;`\
+`const Meeting = require('google-meet-api').meet;`
 
 `Meeting({`\
     `clientId : 'XXXXdds420ghq7195tfsbi04i7rduaans.apps.googleusercontent.com',`\
@@ -24,7 +24,7 @@ then ...
     `location : 'location',`\
     `description : 'description'`\
 `}).then(function(result){`\
-    `console.log(result);//result it the final link`\
+    `console.log(result);//result is the final link`\
 `})`
 
 ## important
